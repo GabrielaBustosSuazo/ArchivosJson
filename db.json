@@ -1,8 +1,13 @@
 {
     "posts": [{
         "id": 1,
-        "title": "aplicaciones moviles",
-        "author": "Error en el lector qr",
-        "body": "ayuda"
-              }]
+        "title": "Aplicaciones Móviles",
+        "author": "Error lector qr",
+        "body": ""
+    }],
+    "id": 2,
+    "title": "Estadística",
+    "author": "Mi asistencia no coincide",
+    "body": ""
+
 }
